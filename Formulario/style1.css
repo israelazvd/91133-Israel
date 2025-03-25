@@ -1,0 +1,46 @@
+body{
+   display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    background-color: rgb(215, 218, 221);
+   flex-direction: column;
+   font-family: Arial, Helvetica, sans-serif;
+}
+
+
+label{
+    display: flex;
+    padding: 5px;
+    
+}
+
+.conteiner{
+
+    border:2px solid rgb(0, 0, 0);
+    width: 320px;
+    height: 320px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(255, 255, 255);
+   
+}
+
+input{
+    width: 290px;
+    height: 20px;
+    margin-bottom: 40px;
+
+}
+
+button{
+    background-color: rgb(129, 58, 151);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 295px;
+    height: 30px;
+}
+

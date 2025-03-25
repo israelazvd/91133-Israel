@@ -1,0 +1,38 @@
+
+
+h1{
+  width: 900px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(78, 252, 122);
+}
+
+content{
+  width: 10px;
+  height: 70px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(217, 218, 217);
+}
+
+
+
+aside {
+  width: 150px;
+  height: 800px;
+  display: center;
+  justify-content: center;
+  align-items: center;
+  background-color: rgb(131, 110, 110);
+  body {color: purple;}
+
+}
+body{
+   
+  display: flex;
+    align-items: center;
+    justify-content: center;
+}

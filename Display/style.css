@@ -1,0 +1,28 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+   
+}
+
+.conteiner{
+
+    border:2px solid red;
+    width: 800px;
+    height: 600px;
+    display: flex;
+    /*Alinhamento Horizontal*/
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+
+.item{
+    border:2px solid rgb(223, 236, 32);
+    width: 90px;
+    height: 90px;
+    background-color: rgb(23, 124, 45);   
+
+}
